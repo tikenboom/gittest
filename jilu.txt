@@ -14,6 +14,9 @@ cat 查看
 
 git reflog 获取版本号
 
+git branch -a 查看远程分支
+git branch 查看本地分支
+
 
 
 
