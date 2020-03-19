@@ -2,7 +2,8 @@ git config --global user.name "sunhao"
 git config --global user.name "61539371@qq.com"
 pwd 显示当前目录
 git add  添加到暂存区
-git commit 提交到仓库
+git commit 提交到仓库（本地库）
+git push （ git push origin testgit） 提交到仓库（远程库）
 git status 查看是否有文件未提交
 git diff  查询修改内容
 fatal: Unable to create '项目路径/.git/index.lock': File exists  解决：rm -f ./.Git/index.lock
@@ -16,6 +17,7 @@ git reflog 获取版本号
 
 git branch -a 查看远程分支
 git branch 查看本地分支
+456
 
 
 
